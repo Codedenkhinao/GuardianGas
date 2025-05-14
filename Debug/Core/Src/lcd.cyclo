@@ -1,0 +1,10 @@
+../Core/Src/lcd.c:14:13:LCD_Delay	1
+../Core/Src/lcd.c:19:13:LCD_Enable	1
+../Core/Src/lcd.c:27:13:LCD_Send4Bits	1
+../Core/Src/lcd.c:36:13:LCD_Send	1
+../Core/Src/lcd.c:43:6:LCD_Init	1
+../Core/Src/lcd.c:71:6:LCD_SendChar	1
+../Core/Src/lcd.c:76:6:LCD_SendString	2
+../Core/Src/lcd.c:83:6:LCD_SetCursor	2
+../Core/Src/lcd.c:89:6:LCD_Clear	1
+../Core/Src/lcd.c:95:6:LCD_DisplayGasPPM	1
