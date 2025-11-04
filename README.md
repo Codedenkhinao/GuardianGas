@@ -64,7 +64,7 @@ Project Structure
 /firmware: STM32F429ZIT6 firmware source code.
 /esp8266: ESP8266 configuration and Blynk integration code.
 
-Contributing
+Contributing.
 This project was developed as part of an academic assignment. Contributions are welcome for improvements or bug fixes. Please submit a pull request or open an issue for discussion.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
